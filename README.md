@@ -5,3 +5,6 @@
 - css 
 - HTML 
 - javascript
+
+### Author: 
+Julie Kim

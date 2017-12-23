@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin: center;
+    font-size: 2em;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    background-attachment: fixed;
+    color:#90A4AE;
+    /* #616161 */
+    background-image: url('../bk.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;  
+
+}

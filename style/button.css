@@ -31,7 +31,7 @@ button:active {
   letter-spacing: 2px;
 }
 button:after {
-  content: "SUBMIT";
+  content: "NEXT";
 }
 
 .onclic {
